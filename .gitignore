@@ -1,0 +1,6 @@
+/.locks
+*.xml
+*.repositories
+*.sha1
+*.lastUpdated
+*.properties
